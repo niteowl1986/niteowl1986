@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @niteowl1986
-- 👀 I’m interested in developing projects in Python and Java. Also looking to make apps based on Machine Learning.
-- 🌱 I’m currently learning Mechanical Engineering at Jadavpur University. Kolkata , India.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ,my email id: ritabratadas12@gmail.com
+## 👋 Hi, I'm Ritabrata Das
 
-<!---
+- 👨‍💼 Assistant Manager at Dhurin, where I contribute to [specific responsibilities or projects, if known].
+- 🎓 Graduated from Jadavpur University, Kolkata, India.
+- 💻 Passionate about developing projects in Python and Java, with a keen interest in Machine Learning, Artificial Intelligence, and Large Language Models (LLMs).
+- 🌱 Continuously exploring the integration of engineering principles with data science and AI.
+- 🤖 Enthusiastic about experimenting with ML algorithms, building NLP projects, and delving into models like GPT and BERT.
+- 💬 Enjoy discussing deep learning concepts, model architectures, and real-world applications of AI tools.
+- 🤝 Open to collaborations on AI/ML-based projects, open-source contributions, or innovative research in the field of LLMs.
+- 📫 Reach out to me at: ritabratadas12@gmail.com
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ritabrata-das-91572a199/)
+
+<!--
 niteowl1986/niteowl1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
